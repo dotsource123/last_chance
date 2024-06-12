@@ -1,0 +1,258 @@
+2024-06-09 10:45:45.699 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 10:45:45.701 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 10:45:45.701 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 10:45:45.701 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 10:45:45.701 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 10:45:45.727 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 10:54:26.369 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.87
+2024-06-09 10:54:26.372 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.78
+2024-06-09 10:54:26.372 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 10:54:26.373 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 10:54:26.373 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 10:54:26.373 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 10:54:26.373 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.69
+2024-06-09 10:54:26.373 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.61
+2024-06-09 10:54:26.374 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.59
+2024-06-09 10:54:26.374 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 10:54:26.374 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 10:54:26.374 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.55
+2024-06-09 10:54:26.374 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.44
+2024-06-09 10:54:26.374 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.43
+2024-06-09 10:54:26.374 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 10:54:26.375 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 10:54:26.375 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.40
+2024-06-09 10:54:26.375 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.39
+2024-06-09 10:54:26.375 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.37
+2024-06-09 10:54:26.375 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.35
+2024-06-09 10:54:26.376 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.32
+2024-06-09 10:54:26.376 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.30
+2024-06-09 10:54:26.376 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.30
+2024-06-09 10:54:26.475 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 2, 'bottle': 21}
+2024-06-09 14:07:11.316 | INFO     | __main__:predict_image:116 - The model predicts: Bottle with confidence 0.93
+2024-06-09 14:07:11.316 | INFO     | __main__:predict_image:116 - The model predicts: Bottle with confidence 0.91
+2024-06-09 14:07:11.317 | INFO     | __main__:predict_image:116 - The model predicts: Bottle with confidence 0.90
+2024-06-09 14:07:11.317 | INFO     | __main__:predict_image:116 - The model predicts: Bottle with confidence 0.88
+2024-06-09 14:07:11.317 | INFO     | __main__:predict_image:119 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 14:07:11.327 | INFO     | __main__:detect_objects:135 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.87
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.78
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.69
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.61
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.59
+2024-06-09 16:02:31.588 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.55
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.44
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.43
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.40
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.39
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.37
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.35
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.32
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.30
+2024-06-09 16:02:31.589 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.30
+2024-06-09 16:02:31.598 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 2, 'bottle': 21}
+2024-06-09 17:06:10.160 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 17:06:10.161 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 17:06:10.161 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 17:06:10.161 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 17:06:10.161 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 17:06:10.175 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 17:06:49.028 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.87
+2024-06-09 17:06:49.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.78
+2024-06-09 17:06:49.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 17:06:49.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 17:06:49.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 17:06:49.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 17:06:49.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.69
+2024-06-09 17:06:49.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.61
+2024-06-09 17:06:49.031 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.59
+2024-06-09 17:06:49.031 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 17:06:49.031 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 17:06:49.031 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.55
+2024-06-09 17:06:49.031 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.44
+2024-06-09 17:06:49.031 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.43
+2024-06-09 17:06:49.031 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 17:06:49.032 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 17:06:49.032 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.40
+2024-06-09 17:06:49.032 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.39
+2024-06-09 17:06:49.032 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.37
+2024-06-09 17:06:49.032 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.35
+2024-06-09 17:06:49.033 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.32
+2024-06-09 17:06:49.033 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.30
+2024-06-09 17:06:49.033 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.30
+2024-06-09 17:06:49.038 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 2, 'bottle': 21}
+2024-06-09 18:16:37.670 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.87
+2024-06-09 18:16:37.672 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.78
+2024-06-09 18:16:37.672 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 18:16:37.672 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 18:16:37.672 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.69
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.61
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.59
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.55
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.44
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.43
+2024-06-09 18:16:37.673 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 18:16:37.674 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 18:16:37.674 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.40
+2024-06-09 18:16:37.674 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.39
+2024-06-09 18:16:37.674 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.37
+2024-06-09 18:16:37.674 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.35
+2024-06-09 18:16:37.674 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.32
+2024-06-09 18:16:37.674 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.30
+2024-06-09 18:16:37.674 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.30
+2024-06-09 18:16:37.728 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 2, 'bottle': 21}
+2024-06-09 18:19:53.526 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.87
+2024-06-09 18:19:53.526 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.78
+2024-06-09 18:19:53.527 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 18:19:53.527 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.76
+2024-06-09 18:19:53.527 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 18:19:53.527 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.73
+2024-06-09 18:19:53.527 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.69
+2024-06-09 18:19:53.527 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.61
+2024-06-09 18:19:53.527 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.59
+2024-06-09 18:19:53.527 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 18:19:53.527 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.58
+2024-06-09 18:19:53.528 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.55
+2024-06-09 18:19:53.528 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.44
+2024-06-09 18:19:53.528 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.43
+2024-06-09 18:19:53.528 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 18:19:53.528 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.41
+2024-06-09 18:19:53.528 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.40
+2024-06-09 18:19:53.528 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.39
+2024-06-09 18:19:53.528 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.37
+2024-06-09 18:19:53.528 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.35
+2024-06-09 18:19:53.529 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.32
+2024-06-09 18:19:53.529 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.30
+2024-06-09 18:19:53.529 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.30
+2024-06-09 18:19:53.582 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 2, 'bottle': 21}
+2024-06-09 18:47:21.965 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 18:47:21.967 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 18:47:21.967 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 18:47:21.967 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 18:47:21.967 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 18:47:22.021 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 18:55:36.066 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 18:55:36.067 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 18:55:36.067 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 18:55:36.068 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 18:55:36.068 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 18:55:36.121 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 18:55:36.359 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 18:55:36.359 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 18:55:36.359 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 18:55:36.359 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 18:55:36.359 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 18:55:36.362 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 19:03:45.653 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 19:03:45.655 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 19:03:45.655 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 19:03:45.655 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 19:03:45.656 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 19:03:45.738 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 19:05:21.238 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 19:05:21.240 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 19:05:21.240 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 19:05:21.240 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 19:05:21.241 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 19:05:21.243 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 19:35:04.257 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 19:35:04.260 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 19:35:04.260 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 19:35:04.260 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 19:35:04.261 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 19:35:04.361 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 19:44:55.837 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 19:44:55.838 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 19:44:55.838 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 19:44:55.838 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 19:44:55.838 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 19:44:55.891 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 19:44:56.134 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 19:44:56.135 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 19:44:56.135 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 19:44:56.135 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 19:44:56.135 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 19:44:56.138 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 20:20:56.562 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 20:20:56.563 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 20:20:56.563 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 20:20:56.563 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 20:20:56.564 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 20:20:56.618 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 20:22:04.639 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 20:22:04.640 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 20:22:04.640 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 20:22:04.640 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 20:22:04.640 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 20:22:04.643 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 20:22:58.902 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 20:22:58.903 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 20:22:58.903 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 20:22:58.904 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 20:22:58.904 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 20:22:58.906 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 20:25:21.107 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-09 20:25:21.110 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-09 20:25:21.110 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-09 20:25:21.110 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-09 20:25:21.111 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-09 20:25:21.164 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}
+2024-06-09 20:32:23.169 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:32:23.172 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:32:23.172 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.95
+2024-06-09 20:32:23.173 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:32:23.173 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:32:23.238 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 0, 'bottle': 5}
+2024-06-09 20:33:36.084 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:33:36.086 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:33:36.099 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.95
+2024-06-09 20:33:36.099 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:33:36.102 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:33:36.194 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 0, 'bottle': 5}
+2024-06-09 20:44:48.665 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:44:48.667 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:44:48.667 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.95
+2024-06-09 20:44:48.667 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:44:48.668 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:44:48.738 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 0, 'bottle': 5}
+2024-06-09 20:44:49.462 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:44:49.463 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:44:49.463 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.95
+2024-06-09 20:44:49.463 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:44:49.463 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:44:49.486 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 0, 'bottle': 5}
+2024-06-09 20:46:09.335 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:46:09.336 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-09 20:46:09.336 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.95
+2024-06-09 20:46:09.336 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:46:09.336 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-09 20:46:09.339 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 0, 'bottle': 5}
+2024-06-10 12:24:09.029 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-10 12:24:09.029 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-10 12:24:09.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.95
+2024-06-10 12:24:09.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-10 12:24:09.030 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-10 12:24:09.043 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 0, 'bottle': 5}
+2024-06-10 14:24:52.221 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-10 14:24:52.229 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.96
+2024-06-10 14:24:52.236 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.95
+2024-06-10 14:24:52.236 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-10 14:24:52.237 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.92
+2024-06-10 14:24:52.307 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 0, 'bottle': 5}
+2024-06-10 14:26:30.932 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.93
+2024-06-10 14:26:30.934 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.91
+2024-06-10 14:26:30.935 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.90
+2024-06-10 14:26:30.935 | INFO     | __main__:predict_image:117 - The model predicts: Bottle with confidence 0.88
+2024-06-10 14:26:30.937 | INFO     | __main__:predict_image:120 - The model predicts: Unidentified Object with confidence 0.38
+2024-06-10 14:26:31.074 | INFO     | __main__:detect_objects:136 - Object Counts: {'can': 1, 'bottle': 4}

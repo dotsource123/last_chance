@@ -1,0 +1,6 @@
+uvicorn
+torch
+ultralytics
+fastapi
+pydantic
+pyngrok
